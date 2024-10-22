@@ -1,7 +1,7 @@
 # Simple Go Struct-Interface Method Example
 
 ### Overview
-This Go program demonstrates the use of interface-typed objects that are declared to link some functions to their specified struct. This technique, although using the property of interface-typed objects, is not the same as demonstrated [here](https://github.com/pkx8326/simple_go_struct-interface_example/tree/main) where interface-typed arguments are passed into functions. As for the code in this repository,  We can use functions as methods for the created structs since we are not passing interface-typed objects as conventional argument, but we are using them as receiver arguments instead.
+This Go program demonstrates the use of interface-typed objects that are declared to link some functions to their specified struct. This technique, although using the property of interface-typed objects, is not the same as demonstrated [here](https://github.com/pkx8326/simple_go_struct-interface_example/tree/main) where interface-typed arguments are passed into functions. As for the code in this repository,  we can use functions as methods for the created structs since we are not passing interface-typed objects as conventional argument, but we are using them as receiver arguments instead.
 
 ### Program manual
 Since this program is very similar to the one in the repository in this [link](https://github.com/pkx8326/simple_go_struct-interface_example/tree/main), I'm just going to copy-paste the program manual from there as the following:
